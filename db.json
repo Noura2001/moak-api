@@ -1,0 +1,121 @@
+{
+    "house":[
+        {
+            "id":1,
+            "title": " Firs Point",
+            "price": 800,
+            "bedroom": 3,
+            "bathroom": 2,
+            "description":"Friars Point House is a Grade II listed building in Barry, Vale of Glamorgan, Wales. See why it was listed, view it on a map, see visitor comments and photos.",
+            "type":"Apartment",
+            "status":"Rent",
+            "location":"Gaza",
+            "address":"Gaza Omar Al-Mukhtar Street",
+            "photo": "https://www10.0zz0.com/2023/08/17/11/583192639.jpg"
+        },
+        {
+            "id":2,
+            "title": " Bell Cottage",
+            "price": 700,
+            "bedroom": 7,
+            "bathroom": 3,
+            "description":"Bell Cottage. Alfriston, East Sussex. 4 Guests. 2 Bedrooms. 1 Bathroom. A charming and cosy two-bedroom holiday cottage set in the picture-perfect village of Alfriston.",
+            "type":"Apartment",
+            "status":"Rent",
+            "location":"Gaza",
+            "address":"Al-Nasr Othman Bin Affan Street",
+            "photo": "https://www10.0zz0.com/2023/08/17/11/807576253.jpg"
+        },
+        {
+            "id":3,
+            "title": "Birchwood House",
+            "price": 400,
+            "bedroom": 5,
+            "bathroom": 3,
+            "description":"We are passionate carers dedicated to providing quality, one-to-one care in our warm, comfortable residential care home, a former manor house, surrounded by nine acres of picturesque.",
+            "type":"Apartment",
+            "status":"Rent",
+            "location":"Gaza",
+            "address":"Al-Nasr Othman Bin Affan Street",
+            "photo": "https://www10.0zz0.com/2023/08/17/11/140476530.jpg"
+        },
+        {
+            "id":4,
+            "title": "Corner House",
+            "price": 300,
+            "bedroom": 3,
+            "bathroom": 2,
+            "description":"Cornerhouse was a centre for cinema and the contemporary visual arts, located next to Oxford Road Station on Oxford Street, Manchester, England, which was active from 1985–2015.",
+            "type":"Apartment",
+            "status":"Rent",
+            "location":"Gaza",
+            "address":"Mohammed Al-Agha Street",
+            "photo": "https://www10.0zz0.com/2023/08/17/11/538110386.jpg"
+        },
+        {
+            "id":5,
+            "title": "Fairview",
+            "price": 250,
+            "bedroom": 2,
+            "bathroom": 2,
+            "description":"A gable is the generally triangular portion of a wall between the edges of intersecting roof pitches.",
+            "type":"Apartment",
+            "status":"Rent",
+            "location":"Gaza",
+            "address":"Mohammed Al Yazouri Street",
+            "photo": "https://www10.0zz0.com/2023/08/17/11/538110386.jpg"
+        },
+        {
+            "id":6,
+            "title": "Gables",
+            "price": 400,
+            "bedroom": 3,
+            "bathroom": 3,
+            "description":"Fairview House is conveniently located close to plenty of local amenities and is within each reach of the beautiful Dee and Don countryside",
+            "type":"Apartment",
+            "status":"Rent",
+            "location":"Gaza",
+            "address":"Ali Al-Agha Street",
+            "photo": "https://www10.0zz0.com/2023/08/17/11/663274882.jpg"
+        },
+        {
+            "id":7,
+            "title": "Haven",
+            "price": 500,
+            "bedroom": 5,
+            "bathroom": 5,
+            "description":"We care for seriously ill babies and children in our hospice and at home. Haven House Children’s Hospice helps families by providing specialist nursing care.",
+            "type":"Apartment",
+            "status":"Rent",
+            "location":"Gaza",
+            "address":"Al Wahda Street",
+            "photo": "https://www10.0zz0.com/2023/08/17/11/297531784.jpg"
+        },
+        {
+            "id":8,
+            "title": "Highclere",
+            "price": 300,
+            "bedroom": 3,
+            "bathroom": 3,
+            "description":"Highclere Castle is a Grade I listed country house built in 1679 and largely renovated in the 1840s, with a park designed by Capability Brown in the 18th century.",
+            "type":"Apartment",
+            "status":"Rent",
+            "location":"Gaza",
+            "address":"Ahmed Yassin Street",
+            "photo": "https://www10.0zz0.com/2023/08/17/11/291700944.jpg"
+        },
+        {
+            "id":9,
+            "title": "Ivy House",
+            "price": 400,
+            "bedroom": 3,
+            "bathroom": 3,
+            "description":"Everything you need to find, buy and love your home, can be found on Ivy. Homeowners ️ Ivy With our app, you can find listings, get inspired, hire experts, and collaborate with partners in one place.",
+            "type":"Apartment",
+            "status":"Rent",
+            "location":"Gaza",
+            "address":"Abu Laila Street",
+            "photo": "https://www10.0zz0.com/2023/08/17/11/625001993.jpg"
+        }
+    ]
+}
